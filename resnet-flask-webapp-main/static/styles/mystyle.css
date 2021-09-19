@@ -1,0 +1,107 @@
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+     bottom:0;
+
+    }
+.button-73 {
+  appearance: none;
+  background-color: #FFFFFF;
+  border-radius: 20em;
+  border-style: none;
+  box-shadow: #ADCFFF 0 -12px 6px inset;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+  letter-spacing: -.6px;
+  margin: 0;
+  outline: none;
+  padding: 0.5rem 0.5rem;
+  quotes: auto;
+  text-align: center;
+  text-decoration: none;
+  transition: all .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+.button-73:hover {
+  background-color: #FFC229;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(0.9);
+}
+
+.button-73:active {
+  transform: scale(0.9);
+}
+
+@media (min-width: 768px) {
+  .button-73 {
+    font-size: 1.5rem;
+    padding: .50rem 1rem;
+  }
+}
+
+html, body {
+  height:100%;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 25px;
+}
+
+html {
+  background: url('http://bookboon.com/blog/wp-content/uploads/sites/5/2017/05/nlp-im-berufsleben-ebooks-bookboon-bl.jpg') fixed;
+  background-size: 100%;
+}
+
+
+.dark {
+  color: #eeeeec;
+  background: #010105;
+  padding: 0 5%;
+}
+
+form {
+   position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.floatleft {
+  float: left;
+  margin: 2%;
+}
+.floatright {
+  float: right;
+  margin 2%;
+}
+div.c {
+
+} 
+
+.content {
+
+ position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120px;
+  border: 3px solid green;
+ text-align: center;
+ color: #FFFFFF;
+ height:200;
+}
+#right{
+  float: right;
+}
+div.absolute {
+  position: absolute;
+  top: 460px;
+  right: 0;
+  width:830px;
+  height: 100px;
+  color:#FFFFFF;
+  font-size: 200%;
+}
